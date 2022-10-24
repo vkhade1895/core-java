@@ -1,2 +1,1 @@
-# core-java
-This repo consists of core-java sample codes
+This repo consists of spring-boot-examples sample codes
