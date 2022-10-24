@@ -1,1 +1,1 @@
-This repo consists of spring-boot-examples sample codes
+This repo consists of core-java-examples sample codes
