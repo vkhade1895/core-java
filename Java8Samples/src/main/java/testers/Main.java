@@ -1,6 +1,4 @@
-package org.example;
-
-import org.example.interfaces.I1;
+package testers;
 
 public class Main {
     public static void main(String[] args) {

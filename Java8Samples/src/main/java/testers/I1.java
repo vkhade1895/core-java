@@ -1,4 +1,4 @@
-package org.example.interfaces;
+package testers;
 
 @FunctionalInterface
 public interface I1 {
